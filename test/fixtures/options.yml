@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  value1: MyString
+  value2: MyString
+  value3: MyString
+  value4: MyString
+  correct_option: 1
+  quiz: one
+
+two:
+  value1: MyString
+  value2: MyString
+  value3: MyString
+  value4: MyString
+  correct_option: 1
+  quiz: two
